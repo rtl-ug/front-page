@@ -2,27 +2,55 @@
 <html class="wide wow-animation" lang="en">
   <head>
     <?php if(!isset($name)){$name = '';}?>
-    <title> <?=$name;?> | Ministry of ICT & National Guidance</title>
+    <title> <?=$name;?> | Rootless Technologies Limited - Best IT Firm in Uganda</title>
     <meta name="format-detection" content="telephone=no">
     <meta name="viewport" content="width=device-width height=device-height initial-scale=1.0 maximum-scale=1.0 user-scalable=0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
-    <link rel="icon" href="images/favicon.png" type="image/x-png">
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Work+Sans:300,700,800%7COswald:300,400,500">
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/fonts.css">
     <link rel="stylesheet" href="css/style.css" id="main-styles-link">
+    
+    <link rel="icon" href="img/favicon.png" type="image/x-png">
+    <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+    <link rel="manifest" href="favicon/site.webmanifest">
+    
 
-    <link rel="canonical" href="https://ict.go.ug/<?$name;?>">
+    <link rel="canonical" href="https://rtl.ug/<?$name;?>">
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Ministry of ICT & National Guidance">
-    <meta property="og:url" content="https://ict.go.ug/<?$name?>">
-    <meta property="og:site_name" content="Ministry of ICT & National Guidance">
+    <meta property="og:title" content="Rootless Technologies Limited">
+    <meta property="og:url" content="https://rtl.ug/<?$name?>">
+    <meta property="og:site_name" content="Rootless Technologies Limited">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Ministry of ICT & National Guidance">
-    <meta name="twitter:site" content="@gcicuganda">
-    <meta name="twitter:creator" content="@gcicuganda">
+    <meta name="twitter:title" content="Rootless Technologies Limited">
+    <meta name="twitter:site" content="@rtlug">
+    <meta name="twitter:creator" content="@rtlug">
+
+
+    <script type="application/ld+json">
+			{
+			  "@context": "https://schema.org",
+			  "@type": "Organization",
+			  "name": "Rootless Technologies Limited",
+			  "url": "https://rtl.ug",
+			  "logo": "https://rtl.ug/img/rtl-logo.png",
+			  "contactPoint": {
+			    "@type": "ContactPoint",
+			    "telephone": "+256782211921",
+			    "contactType": "customer service",
+			    "availableLanguage": "en"
+			  },
+			  "sameAs": [
+			    "https://twitter.com/rtlug",
+                "https://www.facebook.com/rtlug/",
+                "https://www.linkedin.com/company/rootless-technologies-limited/"
+			  ]
+			}
+        </script>
 
     <!--[if lt IE 10]>
     <div style="background: #212121; padding: 10px 0; box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3); clear: both; text-align:center; position: relative; z-index:1;"><a href="https://windows.microsoft.com/en-US/internet-explorer/"><img src="images/ie8-panel/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."></a></div>
@@ -42,7 +70,9 @@
                 <div class="rd-navbar-panel">
                   <!-- RD Navbar Toggle-->
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle="#rd-navbar-nav-wrap-1"><span></span></button>
-                  <!-- RD Navbar Brand--><a class="rd-navbar-brand" href="index.html"><img src="images/moict-logo-small.png" alt="" /></a>
+                  <!-- RD Navbar Brand-->
+                  <!-- <a class="rd-navbar-brand" href="index.html"><img src="images/moict-logo-small.png" alt="" /></a> -->
+                  <a class="rd-navbar-brand" href="index.html"><h4><img src="img/rtl-logo.png" alt="" style="float:left"/>Rootless Technologies Ltd</h4></a>
                 </div>
                 <div class="rd-navbar-collapse">
                   <button class="rd-navbar-collapse-toggle rd-navbar-fixed-element-1" data-rd-navbar-toggle="#rd-navbar-collapse-content-1"><span></span></button>
@@ -51,15 +81,15 @@
                       <div class="unit-left"><span class="icon icon-md icon-modern mdi mdi-phone"></span></div>
                       <div class="unit-body">
                         <ul class="list-0">
-                          <li><a class="link-default" href="tel:+256-414-236262">256-414-236262</a></li>
-                          <li><a class="link-default" href="tel:900">900 Toll Free</a></li>
+                          <li><a class="link-default" href="tel:+256-782-211-921">256-782-211-921</a></li>
+                          <li><a class="link-default" href="tel:+256-782-211-921">256-706-211-921</a></li>
                         </ul>
                       </div>
                     </article>
                     <article class="unit align-items-center">
                       <div class="unit-left"><span class="icon icon-md icon-modern mdi mdi-map-marker"></span></div>
-                      <div class="unit-body"><a class="link-default" href="tel:#">ICT House, Plot 10-12,<br>Parliamentary Avenue</a></div>
-                    </article><a class="button button-primary-outline button-winona" href="#">Talk to <br> GCIC</a>
+                      <div class="unit-body"><a class="link-default" href="#">Plot 925 Bukoto Ntinda Rd,<br>Mariam Nabusi Arcade</a></div>
+                    </article><a class="button button-primary-outline button-winona" href="contact">Get in <br>Touch</a>
                   </div>
                 </div>
               </div>
@@ -108,16 +138,7 @@
                         <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="city-history.html">City History</a></li>
                       </ul> -->
                     </li>
-                    
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="documents">Documents</a>
-                        <!-- RD Navbar Dropdown-->
-                        <ul class="rd-menu rd-navbar-dropdown">
-                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="ministerial-statements">Ministerial Statements</a></li>
-                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="cabinet-statements">Cabinet Statements</a></li>
-                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="press-releases">Press Releases</a></li>
-                        </ul>
-                      </li>
-                    
+              
                     <li class="rd-nav-item"><a class="rd-nav-link" href="//media.gcic.go.ug" target="blank">Blog</a>
                       <!-- RD Navbar Dropdown-->
                       <!-- <ul class="rd-menu rd-navbar-dropdown">

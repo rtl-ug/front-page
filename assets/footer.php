@@ -6,7 +6,7 @@
             <div class="row row-50">
               <div class="col-lg-4">
                 <h4>About Us</h4>
-                <p class="footer-advanced-text">The Ministry of ICT & National Guidance was established in June 2006 with a mandate of providing strategic and technical leadership, overall coordination, support and advocacy on all matters for the ICT sector.</p>
+                <p class="footer-advanced-text">The Rootless Technologies Limited was established in June 2006 with a mandate of providing strategic and technical leadership, overall coordination, support and advocacy on all matters for the ICT sector.</p>
               </div>
               <div class="col-sm-7 col-md-5 col-lg-4">
                 <h4>Recent Blog Posts</h4>
@@ -72,7 +72,7 @@
       </footer>
     </div>
 
-    <div class="preloader"> 
+    <!-- <div class="preloader"> 
       <div class="preloader-logo">
         <img src="images/favicon.png" alt="" width="125" height="71" srcset="images/logo-default-250x142.png 2x"/>
       </div>
@@ -81,7 +81,7 @@
           <div class="loadingProgressG" id="loadingProgressG_1"></div>
         </div>
       </div>
-    </div>
+    </div> -->
 
     <!-- Global Mailform Output-->
     <div class="snackbars" id="form-output-global"></div>

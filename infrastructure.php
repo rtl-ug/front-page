@@ -221,7 +221,7 @@
             </div>
             <div class="layout-bordered-item wow-outer">
               <div class="layout-bordered-item-inner wow slideInUp">
-                <div class="icon icon-lg mdi mdi-email text-primary"></div><a class="link-default" href="mailto:#">info@ict.go.ug</a>
+                <div class="icon icon-lg mdi mdi-email text-primary"></div><a class="link-default" href="mailto:#">info@rtl.ug</a>
               </div>
             </div>
             <div class="layout-bordered-item wow-outer">

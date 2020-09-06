@@ -46,7 +46,7 @@
           <div class="row row-50 justify-content-center justify-content-lg-between flex-lg-row-reverse">
             <div class="col-md-10 col-lg-6 col-xl-5">
               <h3 class="wow-outer"><span class="wow slideInDown">About Ministry of ICT</span></h3>
-              <p class="wow-outer"><span class="wow slideInDown" data-wow-delay=".05s">The Ministry of ICT & National Guidance was established in June 2006 with a mandate of providing strategic and technical leadership, overall coordination, support and advocacy on all matters for the ICT sector.</span></p>
+              <p class="wow-outer"><span class="wow slideInDown" data-wow-delay=".05s">The Rootless Technologies Limited was established in June 2006 with a mandate of providing strategic and technical leadership, overall coordination, support and advocacy on all matters for the ICT sector.</span></p>
               <p class="wow-outer">
                   <span class="wow slideInDown" data-wow-delay=".1s">
                     <div class="tabs-custom tabs-horizontal tabs-line" id="tabs-1">
@@ -125,7 +125,7 @@
       <section class="section-lg text-center">
         <div class="container">
           <h3 class="wow-outer"><span class="wow slideInUp">Leadership</span></h3>
-          <p class="wow-outer"><span class="wow slideInDown text-width-1">The Ministry of ICT & National Guidance is led by the Honourable Minister, the State Minister, and the Permanent Secretary.</span></p>
+          <p class="wow-outer"><span class="wow slideInDown text-width-1">The Rootless Technologies Limited is led by the Honourable Minister, the State Minister, and the Permanent Secretary.</span></p>
           <div class="row row-50 offset-top-2">
             <div class="col-sm-6 col-lg-3 ml-auto mr-auto">
               <!-- Thumbnail Light-->
@@ -321,7 +321,7 @@
             </div>
             <div class="layout-bordered-item wow-outer">
               <div class="layout-bordered-item-inner wow slideInUp">
-                <div class="icon icon-lg mdi mdi-email text-primary"></div><a class="link-default" href="mailto:#">info@ict.go.ug</a>
+                <div class="icon icon-lg mdi mdi-email text-primary"></div><a class="link-default" href="mailto:#">info@rtl.ug</a>
               </div>
             </div>
             <div class="layout-bordered-item wow-outer">
