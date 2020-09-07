@@ -81,7 +81,7 @@
 
     <div class="preloader"> 
       <div class="preloader-logo">
-        <img src="img/rtl-logo.png" alt="" width="125" height="71" srcset="images/logo-default-250x142.png 2x"/>
+        <img src="img/rtl-logo.png" alt="" />
       </div>
       <div class="preloader-body">
         <div id="loadingProgressG">
