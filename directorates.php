@@ -1,22 +1,22 @@
 <?php 
-    $name='Directorates';
+    $name='Services';
     include('assets/header.php') ?>
 
       <!-- Breadcrumbs -->
-      <section class="breadcrumbs-custom bg-image" style="background-image: url(images/breadcrumbs-image-1.jpg);">
-        <div class="breadcrumbs-custom-inner">
-          <div class="container breadcrumbs-custom-container">
-            <div class="breadcrumbs-custom-main">
-              <h6 class="breadcrumbs-custom-subtitle title-decorated">Home</h6>
-              <h1 class="breadcrumbs-custom-title">Directorates</h1>
-            </div>
-            <ul class="breadcrumbs-custom-path">
-              <li><a href="index">Home</a></li>
-              <li class="active">Directorates</li>
-            </ul>
+    <section class="breadcrumbs-custom bg-image bg-gray-100" style="background-image:url(images/slide-1.jpg)">
+      <div class="breadcrumbs-custom-inner">
+        <div class="container breadcrumbs-custom-container">
+          <div class="breadcrumbs-custom-main">
+            <h6 class="breadcrumbs-custom-subtitle title-decorated wow slideInDown">Home</h6>
+            <h1 class="breadcrumbs-custom-title wow fadeInUp"><?=$name?> RTL</h1>
           </div>
+          <ul class="breadcrumbs-custom-path wow fadeInLeft">
+            <li><a href="/">Home</a></li>
+            <li class="active"><?=$name?></li>
+          </ul>
         </div>
-      </section>
+      </div>
+    </section>
 
     
 
@@ -31,12 +31,12 @@
               <div class="timeline-classic-item-divider"></div>
               <div class="timeline-classic-item-main">
                   <p class="timeline-classic-item-title">
-                    <a href="infrastructure">ICT Infrastructure & Planning</a>
+                    <a href="infrastructure">GPS Tracking & Fleet Management</a>
                   </p>
-                <p class="thumbnail-classic-item-subtitle">The directorate is made up of two departments:</p>
+                <p class="thumbnail-classic-item-subtitle">The involves services like:</p>
                 <p>
-                  <li>Department of Communications networks</li>
-                  <li>Infrastructure planning and Technical support</li>
+                  <li>Vehicle Tracking</li>
+                  <li>Fleet Management</li>
                 </p>
               </div>
             </div>
@@ -45,11 +45,12 @@
               </div>
               <div class="timeline-classic-item-divider"></div>
               <div class="timeline-classic-item-main">
-                <p class="timeline-classic-item-title"><a href="information"> Information & National Guidance</a></p>
-                <p class="thumbnail-classic-item-subtitle">The directorate is made up of the following departments</p>
+                <p class="timeline-classic-item-title"><a href="information"> Bulk SMS Services</a></p>
+                <p class="thumbnail-classic-item-subtitle">We offer services like:</p>
                 <p>
-                <li>Department of Information and Public Relations</li>
-                <li>Department of National Guidance</li>
+                <li>Bulk SMS</li>
+                <li>Robot Calls</li>
+                <li>IVR</li>
                 </p>
               </div>
             </div>

@@ -15,30 +15,33 @@
                 </ul>
               </div>
               <div class="col-sm-7 col-md-5 col-lg-4">
-                <h4>Recent Blog Posts</h4>
-                <!-- Post Inline-->
-                <article class="post-inline">
-                  <p class="post-inline-title"><a href="https://media.gcic.go.ug">Uganda Is On Track To Bridging Digital Divide</a></p>
-                  <ul class="post-inline-meta">
+                <h4>Services</h4>
+                <ul class="dull">
+                  <li><a href="gps-tracking">GPS Tracking</a></li>
+                  <li><a href="bulk-sms">Bulk SMS & IVR</a></li>
+                  <li><a href="bulk-sms">Robot Calls</a></li>
+                  <li><a href="web-hosting">Web Hosting</a></li>
+                  <li><a href="https://studio.rtl.ug" target="_blank">Software Development</a></li>
+                  <li><a href="about">IT Consultancy</a></li>
+                </ul>
+                  <!-- <ul class="post-inline-meta">
                     <li>by Besi Ndereya</li>
                     <li><a href="https://media.gcic.go.ug">2 days ago</a></li>
-                  </ul>
+                  </ul> -->
                 </article>
-                <!-- Post Inline-->
-                <article class="post-inline">
-                  <p class="post-inline-title"><a href="https://media.gcic.go.ug">Preparations in high gear as historic trek nears</a></p>
-                  <ul class="post-inline-meta">
-                    <li>by Nicholas Opolot</li>
-                    <li><a href="https://media.gcic.go.ug">2 days ago</a></li>
-                  </ul>
-                </article>
+                <style>
+                  .dull li a{
+                    color:inherit;
+                  }
+                  </style>
               </div>
               <div class="col-sm-5 col-md-7 col-lg-4">
-              <a class="twitter-timeline" data-height="300" data-dnt="true" data-theme="dark" href="https://twitter.com/MoICT_Ug?ref_src=twsrc%5Etfw">Tweets by MoICT_Ug</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+              <a class="twitter-timeline" data-height="300" data-dnt="true" data-theme="dark" href="https://twitter.com/rtlug?ref_src=twsrc%5Etfw">Tweets by RTLUg</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
               </div>
             </div>
           </div>
         </div>
+        
         <div class="footer-advanced-aside">
           <div class="container">
             <div class="footer-advanced-layout">
@@ -64,7 +67,10 @@
         </div>
         <div class="footer-advanced-aside">
           <div class="container">
-            <div class="footer-advanced-layout"><a class="brand" href="index.html"><img src="images/favicon.png" alt="" width="23" height="49" srcset="images/logo-light-166x98.png 2x"/></a>
+            <div class="footer-advanced-layout">
+              <a class="brand" href="index.html">
+                <img src="img/rtl-logo.png" alt="" width="23" />
+              </a>
               <!-- Rights-->
               <p class="rights"><span>&copy;&nbsp;</span><span class="copyright-year"></span><span>&nbsp;</span><span>All Rights Reserved.</span><span>&nbsp;</span><br class="d-sm-none"/><a href="terms-of-use.html">Terms of Use</a><span> and</span><span>&nbsp;</span><a href="#">Privacy Policy</a></p>
             </div>
