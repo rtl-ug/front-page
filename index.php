@@ -8,17 +8,17 @@
             <div class="slide-inner">
               <div class="container">
                 <div class="swiper-slide-caption">
-                  <h1 class="wow-outer" style="color: white;"><span class="font-weight-light wow-outer"><span class="wow" data-caption-animate="slideInDown">Ministry of ICT &</span></span><span class="font-weight-bold wow-outer"><span class="wow" data-caption-animate="slideInDown" data-wow-delay="0">National Guidance</span></span></h1>
+                  <h1 class="wow-outer" style="color: white;"><span class="font-weight-light wow-outer"><span class="wow" data-caption-animate="slideInDown">Rootless Technologies</span></span><span class="font-weight-bold wow-outer"><span class="wow" data-caption-animate="slideInDown" data-wow-delay="0">Limited</span></span></h1>
                   <div class="wow-outer button-outer"><a class="button button-lg button-primary button-winona wow" href="#" data-caption-animate="slideInDown" data-wow-delay=".2s">Learn More</a></div>
                 </div>
               </div>
             </div>
           </div>
-          <div class="swiper-slide" data-slide-bg="images/slide-1.jpg">
+          <div class="swiper-slide" data-slide-bg="img/truck-track.jpg">
             <div class="slide-inner">
               <div class="container">
                 <div class="swiper-slide-caption">
-                  <h1 class="wow-outer"><span class="font-weight-light wow-outer"><span class="wow" data-caption-animate="slideInDown">Ministry of ICT &</span></span><span class="font-weight-bold wow-outer"><span class="wow" data-caption-animate="slideInDown" data-wow-delay="0">National Guidance</span></span></h1>
+                  <h1 class="wow-outer"><span class="font-weight-light wow-outer"><span class="wow" data-caption-animate="slideInDown">Track & Manage your</span></span><span class="font-weight-bold wow-outer"><span class="wow" data-caption-animate="slideInDown" data-wow-delay="0">Fleet</span></span></h1>
                   <div class="wow-outer button-outer"><a class="button button-lg button-primary button-winona wow" href="#" data-caption-animate="slideInDown" data-wow-delay=".2s">Learn More</a></div>
                 </div>
               </div>
@@ -45,39 +45,15 @@
         <div class="container">
           <div class="row row-50 justify-content-center justify-content-lg-between flex-lg-row-reverse">
             <div class="col-md-10 col-lg-6 col-xl-5">
-              <h3 class="wow-outer"><span class="wow slideInDown">About Ministry of ICT</span></h3>
-              <p class="wow-outer"><span class="wow slideInDown" data-wow-delay=".05s">The Rootless Technologies Limited was established in June 2006 with a mandate of providing strategic and technical leadership, overall coordination, support and advocacy on all matters for the ICT sector.</span></p>
-              <p class="wow-outer">
-                  <span class="wow slideInDown" data-wow-delay=".1s">
-                    <div class="tabs-custom tabs-horizontal tabs-line" id="tabs-1">
-                        <!-- Nav tabs-->
-                        <ul class="nav nav-tabs">
-                          <li class="nav-item" role="presentation"><a class="nav-link" href="#tabs-1-1" data-toggle="tab">Vision</a></li>
-                          <li class="nav-item" role="presentation"><a class="nav-link" href="#tabs-1-2" data-toggle="tab">Mission</a></li>
-                          <li class="nav-item" role="presentation"><a class="nav-link active" href="#tabs-1-3" data-toggle="tab">Mandate</a></li>
-                        </ul>
-                        <!-- Tab panes-->
-                        <div class="tab-content">
-                          <div class="tab-pane fade" id="tabs-1-1">
-                            <p>A knowledge and productive society driven by Information, Communication Technology and National Ideology.</p>
-                          </div>
-                          <div class="tab-pane fade" id="tabs-1-2">
-                            <ul class="list-marked">
-                              <p>To increase access and usage of ICT Infrastructure and services throughout the country, ensure effective communication of government policies and programs and promotion of a national ideology for socio-economic transformation.</p>
-                            </ul>
-                          </div>
-                          <div class="tab-pane fade active show" id="tabs-1-3">
-                            <ul class="list-marked">
-                              <p>To provide strategic leadership and supervision in ICT, Information and National Guidance for sustainable development.</p>
-                            </ul>
-                          </div>
-                        </div>
-                      </div>
-                    </span>
-                </p>
+              <h3 class="wow-outer"><span class="wow slideInDown">About Rootless Technologies Limited</span></h3>
+              <p class="wow-outer"><span class="wow slideInDown" data-wow-delay=".05s">Rootless Technologies Limited is a top tier IT firm based in Kampala, Uganda. We deliver world-class technology solutions and services to our Clients.</span></p>
+              <p class="wow-outer"><span class="wow slideInDown" data-wow-delay=".05s">We Transform your business entirely in a digital way with a perfect mix of mobile, cloud, CRM and other emerging technologies. Delight your customers with our effective and innovative business processes.</span></p>
               <!-- <div class="wow-outer button-outer"><a class="button button-lg button-primary button-winona wow slideInDown" data-wow-delay=".1s" href="about">Learn more</a></div> -->
             </div>
-            <div class="col-md-10 col-lg-6 wow-outer"><iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/gYFbRk1wWNE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <!-- <div class="col-md-10 col-lg-6 wow-outer"><iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/7u4xotJQmcw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div> -->
+            <div class="col-md-10 col-lg-6 wow-outer">
+              <img src="img/gps-tracking.png">
             </div>
           </div>
         </div>
@@ -92,7 +68,7 @@
               <article class="box-minimal">
                 <div class="box-minimal-icon fl-bigmug-line-text109 wow fadeIn"></div>
                 <div class="box-minimal-main wow-outer">
-                  <h4 class="box-minimal-title wow slideInDown">ICT Innovation</h4>
+                  <h4 class="box-minimal-title wow slideInDown">T</h4>
                   <p class="wow fadeInUpSmall">National ICT Initiatives Support Programme has been set up to facilitate the creation of an ICT Innovation ecosystem and market Ugandan digital products</p>
                 </div>
               </article>

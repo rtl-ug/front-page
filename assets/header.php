@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html class="wide wow-animation" lang="en">
   <head>
-    <?php if(!isset($name)){$name = '';}?>
+    <?php if(!isset($name)){$name = '';}
+          $link = strtolower(preg_replace('/\s+/','-',$name));?>
     <title> <?=$name;?> | Rootless Technologies Limited - Best IT Firm in Uganda</title>
     <meta name="format-detection" content="telephone=no">
     <meta name="viewport" content="width=device-width height=device-height initial-scale=1.0 maximum-scale=1.0 user-scalable=0">
@@ -19,11 +20,11 @@
     <link rel="manifest" href="favicon/site.webmanifest">
     
 
-    <link rel="canonical" href="https://rtl.ug/<?$name;?>">
+    <link rel="canonical" href="https://rtl.ug/<?$link;?>">
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Rootless Technologies Limited">
-    <meta property="og:url" content="https://rtl.ug/<?$name?>">
+    <meta property="og:url" content="https://rtl.ug/<?$link?>">
     <meta property="og:site_name" content="Rootless Technologies Limited">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Rootless Technologies Limited">
@@ -82,14 +83,14 @@
                       <div class="unit-body">
                         <ul class="list-0">
                           <li><a class="link-default" href="tel:+256-782-211-921">256-782-211-921</a></li>
-                          <li><a class="link-default" href="tel:+256-782-211-921">256-706-211-921</a></li>
+                          <li><a class="link-default" href="tel:+256-706-211-921">256-706-211-921</a></li>
                         </ul>
                       </div>
                     </article>
                     <article class="unit align-items-center">
                       <div class="unit-left"><span class="icon icon-md icon-modern mdi mdi-map-marker"></span></div>
-                      <div class="unit-body"><a class="link-default" href="#">Plot 925 Bukoto Ntinda Rd,<br>Mariam Nabusi Arcade</a></div>
-                    </article><a class="button button-primary-outline button-winona" href="contact">Get in <br>Touch</a>
+                      <div class="unit-body"><a class="link-default" href="https://maps.google.com/maps?ll=0.350024,32.602121&z=14&t=m&hl=en&gl=UG&mapclient=embed&daddr=ROOTLESS%20TECHNOLOGY%20LTD%20Kira%20Rd%20Kampala@0.3500241,32.602121" target="_blank">Plot 925, Bukoto Ntinda Rd</a></div>
+                    </article><a class="button button-primary-outline button-winona" href="contact-us">Get in <br>Touch</a>
                   </div>
                 </div>
               </div>
@@ -111,43 +112,49 @@
                   </div>
                   <!-- RD Navbar Nav-->
                   <ul class="rd-navbar-nav">
-                    <li class="rd-nav-item active"><a class="rd-nav-link" href="index">Home</a>
+                    <li class="rd-nav-item active"><a class="rd-nav-link" href="/">Home</a>
                     </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="directorates">About</a>
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="about">About</a>
+                    </li>
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="tracking">GPS Tracking</a>
                       <!-- RD Navbar Dropdown-->
                       <ul class="rd-menu rd-navbar-dropdown">
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="directorates">The Ministry</a></li>
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="directorates">Directorates </a></li>
-                        <!-- <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="agencies">Agencies </a></li> -->
+                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="tracking">Vehicle Tracking</a></li>
+                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="tracking#fleet">Fleet Management</a></li>
+                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="tracking#2">Other thing</a></li>
                       </ul>
                     </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="directorates">Initiatives</a>
+                    
+                    
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="bulk-sms">Bulk SMS & IVR</a>
+                    </li>
+
+                    
+
+                    <!-- <li class="rd-nav-item"><a class="rd-nav-link" href="services">Services</a> -->
                       <!-- RD Navbar Dropdown-->
                       <!-- <ul class="rd-menu rd-navbar-dropdown">
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="departments.html">Departments</a></li>
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="single-department.html">Single Department</a></li>
-                      </ul> -->
-                    </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="programmes">Programmes</a>
-                      <!-- RD Navbar Dropdown-->
-                      <!-- <ul class="rd-menu rd-navbar-dropdown">
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="community.html">Media</a></li>
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="careers.html">Careers</a></li>
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="events.html">Events</a></li>
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="single-event.html">Single Event</a></li>
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="city-history.html">City History</a></li>
-                      </ul> -->
-                    </li>
+                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="community.html">Bulk SMS</a></li>
+                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="careers.html">Web Hosting</a></li>
+                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="events.html">Software Development</a></li>
+                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="single-event.html">Interactive Voice Response</a></li>
+                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="city-history.html">Route Aggregation</a></li>
+                      </ul>
+                    </li> -->
               
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="//media.gcic.go.ug" target="blank">Blog</a>
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="//media.gcic.go.ug" target="blank">Software Development</a>
                       <!-- RD Navbar Dropdown-->
-                      <!-- <ul class="rd-menu rd-navbar-dropdown">
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="grid-blog.html">Grid Blog</a></li>
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="sidebar-blog.html">Sidebar Blog</a></li>
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="https://media.gcic.go.ug">Single Blog Post</a></li>
-                      </ul> -->
+                      <ul class="rd-menu rd-navbar-dropdown">
+                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="grid-blog.html"></a></li>
+                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="sidebar-blog.html">Other</a></li>
+                      </ul>
                     </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="contact">Contact Us</a>
+
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="web-hosting">Web Hosting</a>
+                    </li>
+
+                    </li>
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="contact-us">Contact Us</a>
                     </li>
                   </ul>
                 </div>
