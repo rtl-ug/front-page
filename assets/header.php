@@ -114,9 +114,9 @@
                   <ul class="rd-navbar-nav">
                     <li class="rd-nav-item active"><a class="rd-nav-link" href="/">Home</a>
                     </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="about">About</a>
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="#">About</a>
                     </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="tracking">GPS Tracking</a>
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="gps-tracking">GPS Tracking</a>
                       <!-- RD Navbar Dropdown-->
                       <ul class="rd-menu rd-navbar-dropdown">
                         <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="tracking">Vehicle Tracking</a></li>
@@ -141,16 +141,11 @@
                         <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="city-history.html">Route Aggregation</a></li>
                       </ul>
                     </li> -->
-              
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="//media.gcic.go.ug" target="blank">Software Development</a>
-                      <!-- RD Navbar Dropdown-->
-                      <ul class="rd-menu rd-navbar-dropdown">
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="grid-blog.html"></a></li>
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="sidebar-blog.html">Other</a></li>
-                      </ul>
+                    
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="web-hosting">Web Hosting</a>
                     </li>
 
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="web-hosting">Web Hosting</a>
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="https://studio.rtl.ug" target="blank">Software Development <span class="icon icon-sm link-default mdi mdi-open-in-new"></span> </a>
                     </li>
 
                     </li>

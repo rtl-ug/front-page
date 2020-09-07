@@ -1,5 +1,5 @@
 <?php 
-	$name = 'Bulk SMS';
+	$name = 'GPS Tracking';
 	include('assets/header.php');?>
     <!-- Breadcrumbs -->
     <section class="breadcrumbs-custom bg-image bg-gray-100" style="background-image:url(images/slide-1.jpg)">
@@ -7,7 +7,7 @@
         <div class="container breadcrumbs-custom-container">
           <div class="breadcrumbs-custom-main">
             <h6 class="breadcrumbs-custom-subtitle title-decorated wow slideInDown">Services</h6>
-            <h1 class="breadcrumbs-custom-title wow fadeInUp"><?=$name?> & IVR</h1>
+            <h1 class="breadcrumbs-custom-title wow fadeInUp">Live <?=$name?></h1>
           </div>
           <ul class="breadcrumbs-custom-path wow fadeInLeft">
             <li><a href="/">Home</a></li>
@@ -18,18 +18,21 @@
       </div>
     </section>
   
-	  <!-- About Bulk SMS  -->
+	  <!-- About GPS vehicle tracking  -->
     <section class="section section-lg">
     <div class="container">
         <div class="row row-50 justify-content-center justify-content-lg-between flex-lg-row-reverse">
           <div class="col-lg-6 col-xl-5 wow fadeInRight">
               <div class="inset-right-3">
-              <h3>Bulk SMS</h3>
-              <h5>RTL offers both personal and group SMS communication solutions to business and final consumers. We offer a comprehensive web-based customized messaging portal for your bulk sms services and needs.</h5><h5> Our bulk SMS services can be used to send high volumes of messages to inform people about important meetings, events, notifications, campaigns or promotions</h5>
+              <h3>Live GPS vehicle tracking</h3>
+              <h5>Live GPS Vehicle tracking brings your operational costs under control..</h5><h5>
+                Live GPS tracking is all about having useful information regarding your fleet readily available to you. Not just any data, but data that is timely and accurate.
+              </h5><h5>
+                Knowing where your vehicles and assets are at all times helps you regain control of your fleet operations. With notifications, you will know how fast the vehicle was driven, where and when the vehicle stopped, and for how long.</h5>
               </div>
           </div>
           <div class="col-lg-6 wow fadeInLeft">
-            <img src="img/bulk-sms.png">
+            <img src="img/gps-tracking.png">
           </div>
         </div>
     </div>
@@ -43,11 +46,15 @@
             <div class="col-lg-6 col-xl-5 wow fadeInRight">
                 <div class="inset-right-3">
                 <h3>USSD Solutions</h3>
-                <h5>RTL is connected to all 5 existing phone companies’ SMS and USSD platforms in Uganda. Through these connections RTL enables other companies (3rd Parties) to quickly and cost effectively offer and earn from SMS or USSD services without owning or replicating such connections. </h5><h5>The 3rd party may obtain their own unique SMS or USSD code for branding and differentiation.</h5>
+                <h5>Fuel monitoring to prevent tank draining and fraud attempts..
+                </h5><h5>
+                  The cost of fuel is always a concern, and fuel savings continue to be fundamentally important in running a successful fleet operation. In most vehicle operations fuel expenses account for at least 32% of operating costs, so fuel monitoring & management is the logical place to start in order to reach fuel efficiency.
+                  
+                  There are many factors that influence fuel consumption, and knowing these factors at all levels is important if real improvement is to be made.</h5>
                 </div>
             </div>
             <div class="col-lg-6 wow fadeInLeft">
-              <img src="img/undraw_mobile.svg">
+              <img src="img/real-time-fuel-monitoring.png">
             </div>
           </div>
       </div>

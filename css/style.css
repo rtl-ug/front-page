@@ -219,7 +219,7 @@ h3 .big,.heading-3 .big {
 h4,.heading-4 {
     font-size: 18px;
     line-height: 1.5;
-    letter-spacing: 0
+    letter-spacing: 0;
 }
 
 @media(min-width: 1200px) {
@@ -9778,7 +9778,7 @@ html.mobile .ui-to-top,html.tablet .ui-to-top {
     margin-left: 6px;
     font-size: 0;
     line-height: 0;
-    text-align: left
+    text-align: left;
 }
 
 .rd-navbar-fixed .rd-navbar-brand img {
