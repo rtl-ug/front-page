@@ -79,7 +79,7 @@
       </footer>
     </div>
 
-    <!-- <div class="preloader"> 
+    <div class="preloader"> 
       <div class="preloader-logo">
         <img src="images/favicon.png" alt="" width="125" height="71" srcset="images/logo-default-250x142.png 2x"/>
       </div>
@@ -88,7 +88,7 @@
           <div class="loadingProgressG" id="loadingProgressG_1"></div>
         </div>
       </div>
-    </div> -->
+    </div>
 
     <!-- Global Mailform Output-->
     <div class="snackbars" id="form-output-global"></div>
