@@ -8819,7 +8819,7 @@ html:not(.lt-ie10) .not-animated {
 }
 
 .wow {
-    backface-visibility: hidden
+    backface-visibility: hidden;
 }
 
 .preloader {

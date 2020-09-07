@@ -6,7 +6,13 @@
             <div class="row row-50">
               <div class="col-lg-4">
                 <h4>About Us</h4>
-                <p class="footer-advanced-text">The Rootless Technologies Limited was established in June 2006 with a mandate of providing strategic and technical leadership, overall coordination, support and advocacy on all matters for the ICT sector.</p>
+                <p class="footer-advanced-text">Rootless Technologies Limited is a top tier IT firm based in Kampala, Uganda. We deliver world-class technology solutions and services to our Clients.</p>
+                <br>
+                <ul class="list-inline list-inline-sm">
+                  <li><a target="_blank" class="icon icon-sm link-default mdi mdi-facebook" href="https://www.facebook.com/rtlug/"></a></li>
+                  <li><a target="_blank" class="icon icon-sm link-default mdi mdi-twitter" href="https://twitter.com/rtlug"></a></li>
+                  <li><a target="_blank" class="icon icon-sm link-default mdi mdi-linkedin" href="https://www.linkedin.com/company/rootless-technologies-limited/"></a></li>
+                </ul>
               </div>
               <div class="col-sm-7 col-md-5 col-lg-4">
                 <h4>Recent Blog Posts</h4>
@@ -38,21 +44,16 @@
             <div class="footer-advanced-layout">
               <div>
                 <ul class="list-nav">
-                  <li><a href="index">Home</a></li>
-                  <li><a href="government.html">About</a></li>
-                  <li><a href="departments.html">Initiatives</a></li>
-                  <li><a href="community.html">Programmes</a></li>
-                  <li><a href="services.html">Media</a></li>
-                  <li><a href="contacts.html">Contact Us</a></li>
+                  <li><a href="/">Home</a></li>
+                  <li><a href="about">About</a></li>
+                  <li><a href="contact-us">Contact Us</a></li>
                 </ul>
               </div>
               <div>
                 <ul class="list-inline list-inline-sm">
-                  <li><a class="icon icon-sm link-default mdi mdi-facebook" href="#"></a></li>
-                  <li><a class="icon icon-sm link-default mdi mdi-twitter" href="#"></a></li>
-                  <li><a class="icon icon-sm link-default mdi mdi-instagram" href="#"></a></li>
-                  <li><a class="icon icon-sm link-default mdi mdi-google" href="#"></a></li>
-                  <li><a class="icon icon-sm link-default mdi mdi-linkedin" href="#"></a></li>
+                  <li><a target="_blank" class="icon icon-sm link-default mdi mdi-facebook" href="https://www.facebook.com/rtlug/"></a></li>
+                  <li><a target="_blank" class="icon icon-sm link-default mdi mdi-twitter" href="https://twitter.com/rtlug"></a></li>
+                  <li><a target="_blank" class="icon icon-sm link-default mdi mdi-linkedin" href="https://www.linkedin.com/company/rootless-technologies-limited/"></a></li>
                 </ul>
               </div>
             </div>

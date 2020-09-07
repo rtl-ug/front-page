@@ -40,7 +40,7 @@
         </div>
       </section>
 
-      <!-- About the Ministry-->
+      <!-- About RTL-->
       <section class="section section-lg">
         <div class="container">
           <div class="row row-50 justify-content-center justify-content-lg-between flex-lg-row-reverse">
@@ -48,7 +48,7 @@
               <h3 class="wow-outer"><span class="wow slideInDown">About Rootless Technologies Limited</span></h3>
               <p class="wow-outer"><span class="wow slideInDown" data-wow-delay=".05s">Rootless Technologies Limited is a top tier IT firm based in Kampala, Uganda. We deliver world-class technology solutions and services to our Clients.</span></p>
               <p class="wow-outer"><span class="wow slideInDown" data-wow-delay=".05s">We Transform your business entirely in a digital way with a perfect mix of mobile, cloud, CRM and other emerging technologies. Delight your customers with our effective and innovative business processes.</span></p>
-              <!-- <div class="wow-outer button-outer"><a class="button button-lg button-primary button-winona wow slideInDown" data-wow-delay=".1s" href="about">Learn more</a></div> -->
+              <div class="wow-outer button-outer"><a class="button button-lg button-primary button-winona wow slideInDown" data-wow-delay=".1s" href="about">Learn more</a></div>
             </div>
             <!-- <div class="col-md-10 col-lg-6 wow-outer"><iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/7u4xotJQmcw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div> -->

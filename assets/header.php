@@ -114,15 +114,15 @@
                   <ul class="rd-navbar-nav">
                     <li class="rd-nav-item active"><a class="rd-nav-link" href="/">Home</a>
                     </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="#">About</a>
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="about">About</a>
                     </li>
                     <li class="rd-nav-item"><a class="rd-nav-link" href="gps-tracking">GPS Tracking</a>
                       <!-- RD Navbar Dropdown-->
-                      <ul class="rd-menu rd-navbar-dropdown">
+                      <!-- <ul class="rd-menu rd-navbar-dropdown">
                         <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="tracking">Vehicle Tracking</a></li>
                         <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="tracking#fleet">Fleet Management</a></li>
                         <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="tracking#2">Other thing</a></li>
-                      </ul>
+                      </ul> -->
                     </li>
                     
                     
