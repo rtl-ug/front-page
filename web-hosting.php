@@ -55,7 +55,7 @@
               <div class="box-minimal-icon fl-bigmug-line-rectangular78 wow fadeIn" data-wow-delay=".1s"></div>
               <div class="box-minimal-main wow-outer">
                 <h4 class="box-minimal-title wow slideInDown" data-wow-delay=".1s">Free SSL Certificate</h4>
-                <p class="wow fadeInUpSmall" data-wow-delay=".1s">It is the ministry's mandate to ensure quality of service of communication and internet services through compliance monitoring and enforcement</p>
+                <p class="wow fadeInUpSmall" data-wow-delay=".1s">We offer Top-notch SSL certificates to ensure delivery of services over encrypted channels. This boosts the security of our clients' accounts and sites.</p>
               </div>
             </article>
           </div>

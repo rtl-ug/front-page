@@ -25,16 +25,7 @@
               </div>
             </div>
           </div>
-          <div class="swiper-slide" data-slide-bg="images/slide-3.jpg">
-            <div class="slide-inner">
-              <div class="container">
-                <div class="swiper-slide-caption">
-                  <h1 class="wow-outer"><span class="font-weight-light wow-outer"><span class="wow" data-caption-animate="slideInDown">Parks & Recreation</span></span><span class="font-weight-bold wow-outer"><span class="wow" data-caption-animate="slideInDown" data-wow-delay="0">Advisory Board Meeting</span></span></h1>
-                  <div class="wow-outer button-outer"><a class="button button-lg button-primary button-winona wow" href="#" data-caption-animate="slideInDown" data-wow-delay=".2s">Learn More</a></div>
-                </div>
-              </div>
-            </div>
-          </div>
+          
         </div>
         <div class="swiper-pagination-outer container">
           <div class="swiper-pagination swiper-pagination-modern swiper-pagination-marked" data-index-bullet="true"></div>
