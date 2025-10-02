@@ -55,7 +55,7 @@
           </div>
           <div class="cell-lg-6 height-fill">
             <div class="figure-card">
-              <div class="figure-card-sizer"></div><img src="img/servers.jpg" alt="" width="960" height="792">
+              <div class="figure-card-sizer"></div><img src="img/servers-small.jpg" alt="" width="960" height="792">
             </div>
           </div>
         </div>
