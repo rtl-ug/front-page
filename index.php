@@ -154,8 +154,8 @@
               <div class="layout-bordered-item-inner wow slideInUp" style="visibility: visible; animation-name: slideInUp;">
                 <div class="icon icon-lg mdi mdi-phone text-primary"></div>
                 <ul class="list-0">
-					<li><a class="link-default" href="tel:+256-782-211-921">256-782-211-921</a></li>
-					<li><a class="link-default" href="tel:+256-706-211-921">256-706-211-921</a></li>
+					<li><a class="link-default" href="tel:+256-785-493-979">256-785-493-979</a></li>
+					<li><a class="link-default" href="tel:+256-757-773-489">256-757-773-489</a></li>
                 </ul>
               </div>
             </div>

@@ -92,8 +92,8 @@
                       <div class="unit-left"><span class="icon icon-md icon-modern mdi mdi-phone"></span></div>
                       <div class="unit-body">
                         <ul class="list-0">
-                          <li><a class="link-default" href="tel:+256-782-211-921">256-782-211-921</a></li>
-                          <li><a class="link-default" href="tel:+256-706-211-921">256-706-211-921</a></li>
+                          <li><a class="link-default" href="tel:+256-785-493-979">256-785-493-979</a></li>
+                          <li><a class="link-default" href="tel:+256-757-773-489">256-757-773-489</a></li>
                         </ul>
                       </div>
                     </article>
